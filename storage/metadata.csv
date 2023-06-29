@@ -1,0 +1,9 @@
+students,gpa,java.lang.Double,False,students_first_name_last_name_gpa,Octree,0.7,5.0
+students,last_name,java.lang.String,False,students_first_name_last_name_gpa,Octree,AAAAAA,zzzzzz
+students,first_name,java.lang.String,False,students_first_name_last_name_gpa,Octree,AAAAAA,zzzzzz
+students,dob,java.util.Date,False,null,null,1990/01/01,2000/12/31
+students,id,java.lang.String,True,null,null,43-0000,99-9999
+Bonjour1,gpa,java.lang.Double,False,null,null,0.7,4.0
+Bonjour1,name,java.lang.String,False,null,null,a,zzzzz
+Bonjour1,dob,java.util.Date,False,null,null,1990/01/01,2023/05/16
+Bonjour1,id,java.lang.Integer,True,null,null,1,1000
